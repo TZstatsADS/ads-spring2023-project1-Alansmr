@@ -2,4 +2,4 @@
 
 ### Doc folder
 
-The doc directory contains the report and presentation files. 
+The doc directory contains the presentation files. 
