@@ -1,5 +1,5 @@
-# ADS Project 1:  R Notebook on the history of philosophy
+# ADS Project 1:  How do philosophers talk?
 
 ### Doc folder
 
-The doc directory contains the report or presentation files. It can have subfolders.  
+The doc directory contains the report and presentation files. 
