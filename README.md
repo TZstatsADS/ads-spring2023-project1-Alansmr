@@ -3,7 +3,6 @@
 ## Project 1: How do philosophers talk?
 
 <img src="socrates-183232310-58cb18575f9b581d72aa8042.webp" width="500">
-![My Image](figs/socrates-183232310-58cb18575f9b581d72aa8042.webp)
 
 ### [Project Description](doc/)
 This is the first and only *individual* (as opposed to *team*) project this semester. 
